@@ -1,0 +1,1 @@
+export type inputNames = "title" | "description" | "price" | "imgURL";
